@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Привет, я Даниил!<br><br>🏠 Базируюсь в Майкопе, Россия<br><br>👨‍💻 .NET разработчик<br><br>💻 Технологический стек:<br>- C#<br>- .NET Framework / .NET Core<br>- ASP.NET<br>- C++<br>- MySQL<br>- Entity Framework<br><br>🔧 Виртуализация:<br>- libvirt<br>- virsh<br>- KVM/QEMU<br>- Управление виртуальными машинами<br>- Настройка виртуальных сетей<br><br>🔭 Специализация:<br>- Разработка веб-приложений на ASP.NET<br>- Создание десктопных приложений (WPF + MVVM)<br>- Работа с базами данных (MySQL, MongoDB, InfluxDB)<br><br>📫 ### 📫 Связаться со мной:
+👋 Привет, я Даниил!<br><br>🏠 Базируюсь в Майкопе, Россия<br><br>👨‍💻 .NET разработчик<br><br>💻 Технологический стек:<br>- C#<br>- .NET Framework / .NET Core<br>- ASP.NET<br>- C++<br>- MySQL<br>- Entity Framework<br><br>🔧 Виртуализация:<br>- libvirt<br>- virsh<br>- KVM/QEMU<br>- Управление виртуальными машинами<br>- Настройка виртуальных сетей<br><br>🔭 Специализация:<br>- Разработка веб-приложений на ASP.NET<br>- Создание десктопных приложений (WPF + MVVM)<br>- Работа с базами данных (MySQL, MongoDB, InfluxDB)<br><br>📫 Связаться со мной:
 
 <p align="left">
   <a href="https://t.me/atfaive" target="_blank">
