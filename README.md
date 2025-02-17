@@ -57,8 +57,3 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
-
----
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ktoyou&icon=0&color=0" alt="Profile Views" />
-</div>
